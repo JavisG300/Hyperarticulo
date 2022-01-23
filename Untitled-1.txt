@@ -1,0 +1,3 @@
+Este es la primera vez que Javier G. A.
+
+hace un archivo de texto en visual studio
